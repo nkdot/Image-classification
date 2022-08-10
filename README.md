@@ -1,2 +1,2 @@
 # Image-classification
-Detect human face emotions
+Model 1: Detect human face emotions using keras sequential API
